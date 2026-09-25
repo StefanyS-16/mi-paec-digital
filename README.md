@@ -5,6 +5,7 @@ Mi nombre es Stefany.
 - Los gatos 
 - Escuchar musica 
 - Ir al gimnasio 
+- ver peliculas 
 
 ## Mi meta 
 Terminar mis estudios y lograr ser alguien exitosa en un  futuro.
